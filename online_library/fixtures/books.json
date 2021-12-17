@@ -1,0 +1,74 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Оно",
+      "author": "Стивен Кинг",
+      "pub_date": "1986-09-15"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Под куполом",
+      "author": "Стивен Кинг",
+      "pub_date": "2009-10-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Пролетая над гнездом кукушки",
+      "author": "Кен Кизи",
+      "pub_date": "1962-02-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Грозовой перевал",
+      "author": "Эмили Бронте",
+      "pub_date": "1847-09-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "Последнее желание",
+      "author": "Анджей Сапковский",
+      "pub_date": "1993-01-01"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "Идиот",
+      "author": "Ф.М. Достоевский",
+      "pub_date": "1869-09-10"
+    }
+  }
+]
